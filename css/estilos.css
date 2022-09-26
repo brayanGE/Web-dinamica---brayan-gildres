@@ -20,10 +20,10 @@ body{
     padding: 60px 0;
 }
 
-.header{
+header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(219, 40, 165, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(../img/jeshoots-com-sMKUYIasyDM-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -87,6 +87,7 @@ body{
 .titulo{
     font-size: 60px;
     margin-bottom: 15px;
+    color: black;
 }
 
 .copy{
