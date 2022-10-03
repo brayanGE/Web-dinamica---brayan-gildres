@@ -23,7 +23,7 @@ body{
 header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(219, 40, 165, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(../img/jeshoots-com-sMKUYIasyDM-unsplash.jpg);
+    background-image: linear-gradient(to top, rgba(103, 40, 219, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(../img/jeshoots-com-sMKUYIasyDM-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
